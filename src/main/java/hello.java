@@ -5,6 +5,8 @@ public class hello {
     public void hello(){
         System.out.println("不好好听课揍你");
         System.out.println("揍你一个小家伙 淦 新疆好地方");
+
         System.out.println("揍你一个小家伙dsdf 淦");
+        System.out.println("ssdfsdf");
     }
 }
